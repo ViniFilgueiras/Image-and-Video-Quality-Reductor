@@ -151,24 +151,14 @@ Utiliza FFmpeg para:
 - **Espaço em Disco**: Vídeos longos geram muitos frames temporários
 - **FFmpeg Obrigatório**: O processamento de áudio requer FFmpeg instalado
 - **Earrape**: Use com moderação e cuidado com seus ouvidos! 🔊
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/NovaFuncionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/NovaFuncionalidade`)
-5. Abrir um Pull Request
-
+  
 ## 📝 Licença
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto é distribuído sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Seu Nome - [@ViniFilgueiras](https://github.com/ViniFilgueiras)
+Vinícius Filgueiras - [@ViniFilgueiras](https://github.com/ViniFilgueiras)
 
 ---
 
